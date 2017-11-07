@@ -1,0 +1,8 @@
+controles para elegir al personaje 1:
+
+Bates = b
+Gossamer = g
+George = d
+Yeti = y
+Eduargo = e
+Sullivan = j
